@@ -1,0 +1,2 @@
+hi, This is file created for merge conflict advanced-git-practice
+hi , This is file created for merge conflict from feature-x
